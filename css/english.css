@@ -294,3 +294,7 @@ input[type="file"]::file-selector-button {
     margin: 0 auto;
     border: 0;
 }
+
+.education-is-key {
+    display: none;
+}
